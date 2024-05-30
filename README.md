@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" alt="RAutomated Guided Vehicle Navigation Logo" width="250">
-</p>
+
 
 <h1 align="center"> Automated Guided Vehicle (AGV) Navigation Application </h>
 
